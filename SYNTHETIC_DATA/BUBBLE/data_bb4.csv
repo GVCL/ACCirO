@@ -1,0 +1,20 @@
+X,Y,Hue,Size,chart_type,title,x-title,y-title
+160,291,asy,23,Bubble Plot,conditions of heart failure people at age 55,restingbp,cholesterol
+160,292,ata,21
+120,226,asy,18
+122,222,asy,14
+142,228,asy,22
+140,295,ta,21
+136,245,nap,20
+128,204,asy,20
+140,200,asy,20
+140,268,asy,19
+135,203,asy,19
+136,228,nap,19
+140,216,asy,16
+158,216,asy,16
+132,352,asy,20
+145,248,asy,14
+179,327,asy,14
+116,187,asy,12
+172,260,asy,7

@@ -1,0 +1,1 @@
+The plot depicts a Simple Dot Plot Graph illustrating number of children in family. The plot is having children on y-axis. The children is uniform with 4 till 7 and finally ends with 3 in 8. The overall mean and standard deviation values of children are 2.5 and 1.12 respectively.

@@ -1,0 +1,1 @@
+The plot depicts a Simple Scatter Graph illustrating average heights of the rio negro river at manaus. The Y axis value has it maximum and minmum values 4 and -7 at 1914, and 1926 respectively. The x axis values and _ doesn't exhibit any correlation with spearman correlation value 0.08.

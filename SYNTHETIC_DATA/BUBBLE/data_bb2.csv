@@ -1,0 +1,22 @@
+X,Y,Hue,Size,chart_type,title,x-title,y-title
+60,20,secondary,22,Bubble Plot,purchase trends of people born in 1989,numwebpurchases,numwebvishtsmonth
+40,11,master,22
+30,11,master,21
+20,60,graduation,20
+50,40,graduation,19
+80,30,phd,19
+30,40,secondary,18
+30,70,master,17
+10,30,graduation,15
+40,70,secondary,15
+20,30,graduation,15
+20,50,graduation,14
+10,40,phd,14
+80,80,graduation,15
+10,70,basic,9
+30,50,master,7
+10,50,secondary,7
+30,11,master,21
+30,11,secondary,21
+30,70,master,17
+30,70,secondary,17

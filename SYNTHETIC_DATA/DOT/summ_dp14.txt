@@ -1,0 +1,2 @@
+The plot depicts a Dot Plot Graph illustrating scores by group and gender. The plot is between scores on y-axis over group on the x-axis for women, and men. The scores of women has it maximum and minmum values 3 and 0 at 4, and 5 respectively. The scores of men has it maximum and minmum values 6 and 1 at 1, and 2 respectively.
+	The scores of all catogeries cummulatively has it maximum and minmum values 7 and 2 at 1, and 5 respectively. The standard deviation values of scores for catogeries 'women', and 'men' are 0.89, and 1.31 respectively .

@@ -1,0 +1,1 @@
+The plot depicts a Pie Graph illustrating programming language usage south among korea developers that compares across the following categories:  us, uk, germany, south korea, with proportions 18.5%, 24.6%, 17.0%, 9.2%, respectively where india contributing to majority of 27.8% and australia contributing to minority of 2.9%.

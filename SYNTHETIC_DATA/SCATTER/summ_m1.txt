@@ -1,0 +1,1 @@
+The plot depicts a Scatter Graph. The plot is having scores on x-axis for team2, and teaml varients. The team2 has it maximum and minmum values 52 and 25 at scores 29, and 4 respectively. The teaml has it maximum and minmum values 47 and 23 at scores 34, and 1 respectively. The scores and y axis values doesn't exhibit any correlation for catogeries 'team2', and 'teaml' .

@@ -1,0 +1,1 @@
+The plot depicts a Simple Dot Plot Graph illustrating pizza consumption. The plot is between times eaten on y-axis over month on the x-axis. The times eaten starts with 4 at month 1 then declines till 7, followed by a decreasing trend till 10, and finally ends with 3 in 11. The overall mean and standard deviation values of times eaten are 3.64 and 1.37 respectively.

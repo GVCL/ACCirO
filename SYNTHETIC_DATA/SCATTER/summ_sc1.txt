@@ -1,0 +1,1 @@
+The plot depicts a Simple Scatter Graph illustrating heirht and weinht nf natients afferted hv crohnic disease. The Y axis value has it maximum and minmum values 117 and 37 at 165, and 150 respectively. The x axis values and _ are positively correlated with spearman correlation value 0.51.

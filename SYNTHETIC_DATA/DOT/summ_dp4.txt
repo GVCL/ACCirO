@@ -1,0 +1,1 @@
+The plot depicts a Simple Dot Plot Graph illustrating no of children. The plot is between noof books on y-axis over sample on the x-axis. The noof books has it maximum and minmum values 7 and 1 at 5, and 11 respectively. The overall mean and standard deviation values of noof books are 3.64 and 2.01 respectively.

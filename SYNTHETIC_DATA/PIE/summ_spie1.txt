@@ -1,0 +1,1 @@
+The plot depicts a Pie Graph illustrating programming c language language usage among developers that compares across the following categories:  ctt, r language, matlab, with proportions 15.0%, 19.6%, 22.8%, respectively where python contributing to majority of 32.8% and c language contributing to minority of 9.8%.

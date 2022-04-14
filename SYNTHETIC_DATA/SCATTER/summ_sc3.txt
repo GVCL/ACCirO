@@ -1,0 +1,1 @@
+The plot depicts a Simple Scatter Graph illustrating the classir rox l lenkins airline data. The Y axis value has it maximum and minmum values 624 and 108 at 1961, and 1950 respectively. The x axis values and _ are positively correlated with spearman correlation value 0.95.

@@ -1,0 +1,12 @@
+X,success,failure,chart_type,title,x-title,y-title
+1,3,6,Dot Plot,playerls success vs failure count,player,count
+2,2,3
+3,0,3
+4,1,4
+5,1,4
+6,3,4
+7,1,6
+8,1,1
+9,5,2
+10,8,3
+11,4,5

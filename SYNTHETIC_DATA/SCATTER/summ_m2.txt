@@ -1,0 +1,1 @@
+The plot depicts a Scatter Graph. The plot is having points on x-axis for 1 type, and type 2 varients. The 1 type has it maximum and minmum values 51 and 27 at points 54, and 7 respectively. The type 2 has it maximum and minmum values 204 and 97 at points 42, and 1 respectively. The points and y axis values doesn't exhibit any correlation for catogeries '1 type', and 'type 2' .

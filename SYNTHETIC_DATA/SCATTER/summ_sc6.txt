@@ -1,0 +1,1 @@
+The plot depicts a Simple Scatter Graph illustrating scatter plot. The plot is between x axis on y-axis over xaxis on the x-axis. The x axis has it maximum and minmum values 122 and 10 at xaxis 232, and 101 respectively. The xaxis and x axis are positively correlated with spearman correlation value 0.72.

@@ -1,0 +1,23 @@
+X,Y,Hue,Size,chart_type,title,x-title,y-title
+130,211,st,16,Bubble Plot,conditions of heart failure people at age 58,restingbp,cholesterol
+137,232,st,15
+128,216,lvh,16
+132,225,lvh,21
+120,284,lvh,20
+125,300,lvh,22
+112,231,lvh,21
+130,263,normal,17
+128,260,lvh,16
+136,320,lvh,20
+100,235,normal,19
+170,226,lvh,19
+146,218,normal,11
+150,219,st,13
+114,319,st,18
+136,204,normal,15
+160,257,lvh,13
+150,271,lvh,12
+110,198,normal,12
+136,166,st,9
+179,392,normal,11
+160,212,st,7

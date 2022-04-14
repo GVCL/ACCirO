@@ -1,0 +1,1 @@
+The plot depicts a Simple Dot Plot Graph illustrating states visited every year. The plot is having noof states on y-axis. The noof states has it maximum and minmum values 6 and 1 at 2003, and 2006 respectively. The overall mean and standard deviation values of noof states are 3.57 and 1.76 respectively.

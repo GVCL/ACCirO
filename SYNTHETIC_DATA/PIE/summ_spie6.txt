@@ -1,0 +1,1 @@
+The plot depicts a Pie Graph illustrating popular games that compares across the following categories:  actionadventure, adventure, fighting, shooter, platforming games, realtime strategy games, with proportions 8.1%, 12.6%, 27.9%, 13.0%, 3.7%, 3.7%, respectively where escape contributing to majority of 28.0% and multiplayer battle contributing to minority of 3.1%.

@@ -1,0 +1,1 @@
+The plot depicts a Simple Dot Plot Graph illustrating hours spent on home work per week. The plot is between hours on y-axis over sample on the x-axis. The hours has it maximum and minmum values 8 and 3 at 10, and 6 respectively. The overall mean and standard deviation values of hours are 5.0 and 1.36 respectively.

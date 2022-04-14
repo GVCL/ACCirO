@@ -1,0 +1,19 @@
+X,Y,Catogery,chart_type,title,x-title,y-title
+10.1,89.53,girls,Scatter,_,grades range,grades scored
+19.93,90.47,girls
+29.77,70.87,girls
+39.8,89.53,girls
+59.67,80.55,girls
+69.5,90.47,girls
+89.36,80.55,girls
+99.2,35.67,girls
+10.1,31.65,boys
+19.93,30.71,boys
+29.77,50.31,boys
+39.8,49.37,boys
+49.83,99.92,boys
+59.67,49.37,boys
+69.5,39.69,boys
+79.53,46.54,boys
+89.36,21.97,boys
+99.2,31.65,boys
