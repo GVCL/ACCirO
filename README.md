@@ -17,9 +17,6 @@ Things to be taken care before runing the code:
     1. data_```filename```.csv: contains extracted data values along with additional semantic attributes like chart_type, title, x-title, and y-title that helps in chart reconstruction and summarization
     2. Reconstructed_```filename```.png: The reconstructed image from extracted  data_```filename```.csv file.
     3. summ_```filename```.txt: The chart text summary generated using templated-NLG approach based on our user-study observations
- 
-Now you can run the main file and provide the path of your image file there or you can call extScatterTypes(filename) function directly in main without passing through classifier.
-
-Also find the synthetically genrerated test data set for this system with it's results at ```ChartDecode/SYNTHETIC_DATA```.
+5. Also find the synthetically genrerated test data set for this system with it's results at ```ChartDecode/SYNTHETIC_DATA```.
 
 
